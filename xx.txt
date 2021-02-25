@@ -1,3 +1,15 @@
-你好 全世界
+
 每次切换分支的时候 执行 git checkout -b 分支名
+查看分支当前位置 git branch
+输入所需要写的内容
+然后 git add 所修改的文件
+保存 gir commit -m ''
+切换到主分支 git checkout master
+合并 git merge 分支名
+更新 主分支 git add .
+保存 git commit -m ‘’
+更新 git pull 主分支
+上传 git push
+
  
+删除 子分支 git checkout-d 子分支
